@@ -1,7 +1,7 @@
-(function() {
+(function () {
     document.getElementById('guess-form')!.addEventListener("submit", compareUserGuess);
 
-    function compareUserGuess (event:any) {
+    function compareUserGuess(event: Event) {
         event.preventDefault();
 
         const secretNumber: number = generateSecretNumber();
