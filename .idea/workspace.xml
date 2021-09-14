@@ -20,9 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../crud" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../crud-2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../discovering-Laravel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../language-quiz" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mvc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../order-form" afterDir="false" />
@@ -42,9 +39,7 @@
       <change afterPath="$PROJECT_DIR$/../the-impossible-quiz/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../the-impossible-quiz/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/script.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631607125703</updated>
-      <workItem from="1631607127908" duration="12804000" />
+      <workItem from="1631607127908" duration="13451000" />
     </task>
     <servers />
   </component>
